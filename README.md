@@ -39,3 +39,5 @@ I have set up Google Analytics on my website to track visitor data.
 
   gtag('config', 'G-X7LFCCERHV');
 </script>
+
+![image](https://github.com/user-attachments/assets/ff5658ac-9934-48e1-8d61-3fb6efc31b72)
