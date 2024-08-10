@@ -1,5 +1,5 @@
 # digital-marketing-tasks
-# Task 1: Google Analytics Setup
+# Task 1: Google Analytics Setup and reporting
 
 ## Task Description:
 I have set up Google Analytics on my website to track visitor data.
